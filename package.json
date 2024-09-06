@@ -46,12 +46,12 @@
     "callsite": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.12.4",
     "mongoose-paginate": "^5.0.3",
     "morgan": "^1.9.1",
     "reflect-metadata": "^0.1.13",
     "shelljs": "^0.8.3",
-    "yargs": "^15.4.1"
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.0",
